@@ -1,0 +1,31 @@
+{
+  "name": "ran-marketing",
+  "version": "1.0.0",
+  "description": "RAN Marketing - Surfea la ola del cambio",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "./node_modules/gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vmrodriguez90/ran-marketing.git"
+  },
+  "keywords": [
+    "ran",
+    "marketing",
+    "marketing",
+    "marketing",
+    "agency"
+  ],
+  "author": "Victor Manuel Rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vmrodriguez90/ran-marketing/issues"
+  },
+  "homepage": "https://github.com/vmrodriguez90/ran-marketing#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-copy": "^4.0.1",
+    "gulp-rename": "^2.0.0"
+  }
+}
