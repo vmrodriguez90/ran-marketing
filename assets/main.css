@@ -1,11 +1,4 @@
 /*
-    Template name : Simpleux - Website template
-    Version : 2.0
-    Author : Miradontsoa Andria
-    Website : http://highhay.com & http://cutekit.net
-    Support : support@cutekit.net
-*/
-/*
     TABLE OF CONTENT
     0 Initialization & Helpers
         0.1 Initialization
@@ -711,7 +704,7 @@ body {
     .navbar-a .navbar-brand .dark-logo {
       display: none; }
     .navbar-a .navbar-brand img {
-      height: 40px; }
+      height: 130px; }
     .navbar-a .navbar-brand .text {
       display: flex;
       justify-content: center;
